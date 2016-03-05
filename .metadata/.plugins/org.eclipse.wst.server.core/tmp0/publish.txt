@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Feb 27 22:30:50 IST 2016
+org.eclipse.jst.jee.server\:/binary\:D\:\\MiniProject\\TestMVCProject\\WebContent\\WEB-INF\\lib\\spring-web-4.2.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\MiniProject\\TestMVCProject\\WebContent\\WEB-INF\\lib\\spring-web-4.2.5.RELEASE.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE.jar
